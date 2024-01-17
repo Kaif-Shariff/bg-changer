@@ -18,4 +18,4 @@ The Color Generator is a web application built with React that allows users to g
 
 ## Colours Used
 
-<span style="color:white; background-color: #1d2127; border-radius: 4px; padding: 3px 4px;">#1D2127</span>
+<span style="color: yellow; background-color: #1d2127; border-radius: 4px; padding: 3px 4px;">#1D2127</span>
